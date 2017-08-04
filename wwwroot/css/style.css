@@ -1,0 +1,14 @@
+img{
+    height: 400px;
+    width: 500px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+}
+form{
+    margin: 20px;
+}
+input {
+    margin: 10px;
+}
